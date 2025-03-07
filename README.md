@@ -2,7 +2,7 @@
 # ✨  Entity Framework & MSSQL in ASP.NET Web API Projects
 
 ## ➡️ Overview
-In modern **ASP.NET Web API** projects, efficient data management is crucial for building scalable and maintainable applications. This is where **Entity Framework (EF)** and **Microsoft SQL Server (MSSQL)** come into play. 
+IN modern **ASP.NET Web API** projects, efficient data management is crucial for building scalable and maintainable applications. This is where **Entity Framework (EF)** and **Microsoft SQL Server (MSSQL)** come into play. 
 
 ## ⁉️What is Entity Framework (EF)?
 Entity Framework is an **Object-Relational Mapper (ORM)** that simplifies database interactions in ASP.NET applications. Instead of writing raw SQL queries, developers can use **C# objects** to interact with the database, making code more readable, maintainable, and less prone to errors.
