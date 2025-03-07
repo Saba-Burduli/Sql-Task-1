@@ -31,20 +31,20 @@ Entity Framework is an **Object-Relational Mapper (ORM)** that simplifies databa
 ## Getting Started with EF & MSSQL in ASP.NET Web API
 To use **Entity Framework with MSSQL**, follow these steps:
 
-1. **Install EF Core & MSSQL Provider**
+1. ** ✅Install EF Core & MSSQL Provider**
    ```sh
    dotnet add package Microsoft.EntityFrameworkCore
    dotnet add package Microsoft.EntityFrameworkCore.SqlServer
    ```
 
-2. **Configure Database Connection in appsettings.json**
+2. ** ✅Configure Database Connection in appsettings.json**
    ```json
    "ConnectionStrings": {
       "DefaultConnection": "Server=YOUR_SERVER;Database=YOUR_DB;User Id=YOUR_USER;Password=YOUR_PASSWORD;"
    }
    ```
 
-3. **Setup DbContext in ASP.NET Web API**
+3. ** ✅Setup DbContext in ASP.NET Web API**
    ```csharp
    public class AppDbContext : DbContext
    {
@@ -54,7 +54,7 @@ To use **Entity Framework with MSSQL**, follow these steps:
    }
    ```
 
-4. **Apply Migrations and Update Database**
+4. ** ✅Apply Migrations and Update Database**
    ```sh
    dotnet ef migrations add InitialCreate
    dotnet ef database update
