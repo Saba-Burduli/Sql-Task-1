@@ -4,17 +4,17 @@
 ## ➡️ Overview
 In modern **ASP.NET Web API** projects, efficient data management is crucial for building scalable and maintainable applications. This is where **Entity Framework (EF)** and **Microsoft SQL Server (MSSQL)** come into play. 
 
-## What is Entity Framework (EF)?
+## ⁉️What is Entity Framework (EF)?
 Entity Framework is an **Object-Relational Mapper (ORM)** that simplifies database interactions in ASP.NET applications. Instead of writing raw SQL queries, developers can use **C# objects** to interact with the database, making code more readable, maintainable, and less prone to errors.
 
-### Why Use Entity Framework in ASP.NET Web API?
+### ⁉️Why Use Entity Framework in ASP.NET Web API?
 1. **Simplified Database Operations**: EF eliminates the need for complex SQL queries and allows developers to work with data using C# classes.
 2. **Automatic Migrations**: Changes in the data model can be synchronized with the database schema using EF migrations.
 3. **Strongly Typed Queries**: EF ensures compile-time safety, reducing runtime errors.
 4. **Support for Multiple Databases**: EF works not only with MSSQL but also with other databases like MySQL, PostgreSQL, and SQLite.
 5. **Performance Optimization**: With features like lazy loading, eager loading, and caching, EF enhances query performance.
 
-## What is MSSQL and Its Role in ASP.NET Web API?
+## ⁉️ What is MSSQL and Its Role in ASP.NET Web API?
 **Microsoft SQL Server (MSSQL)** is a powerful relational database management system (RDBMS) that integrates seamlessly with **ASP.NET Web API**. It provides:
 
 - **Scalability**: Handles large datasets efficiently.
