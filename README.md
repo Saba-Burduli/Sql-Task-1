@@ -65,5 +65,5 @@ Using **Entity Framework and MSSQL** together in **ASP.NET Web API** provides a 
 
 ---
 
-## License
+## ©️  License
 This project is licensed under the **MIT License** – feel free to modify and use it in your projects! 🎯
