@@ -1,4 +1,3 @@
-# Sql-Task-1
 
 # Entity Framework & MSSQL in ASP.NET Web API Projects
 
