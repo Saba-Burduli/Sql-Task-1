@@ -1,7 +1,4 @@
 
-# ✨  Entity Framework & MSSQL in ASP.NET Web API Projects
-
-
 ## ⁉️ What is MSSQL and Its Role in ASP.NET Web API?
 **Microsoft SQL Server (MSSQL)** is a powerful relational database management system (RDBMS) that integrates seamlessly with **ASP.NET Web API**. It provides:
 
